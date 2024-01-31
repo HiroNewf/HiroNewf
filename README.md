@@ -3,8 +3,13 @@
 <p align="left">
 <a href="#">
   <img src="/Images/Certifications/PNPT.png" alt="PNPT" style="vertical-align:top; margin:6px 4px">
+</a> 
+<a href="#">
   <img src="/Images/Certifications/Sec%2B.png" alt="Security+" style="vertical-align:top; margin:6px 4px">
+</a> 
+<a href="#">
   <img src="/Images/Certifications/Net%2B.png" alt="Network+" style="vertical-align:top; margin:6px 4px">
+</a> 
 </p>
 
 ### Languages 
