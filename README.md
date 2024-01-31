@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hello! I am HiroNewf, a student aspiring to be a Penetration Tester 
+### Certifications
+<p align="left">
+<a href="#">
+  <img src="/Images/Certifications/PNPT.png" alt="PNPT" style="vertical-align:top; margin:6px 4px">
+  <img src="/Images/Certifications/Sec%2B.png" alt="Security+" style="vertical-align:top; margin:6px 4px">
+  <img src="/Images/Certifications/Net%2B.png" alt="Network+" style="vertical-align:top; margin:6px 4px">
+</p>
 
-<!--
-**HiroNewf/HiroNewf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages 
+<p align="left">
+<a href="#">
+  <img src="/Images/Programming and Scripting/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
+  <img src="/Images/Programming and Scripting/bash.svg" alt="Bash" style="vertical-align:top; margin:6px 4px">
+  <img src="/Images/Programming and Scripting/powershell.svg" alt="Powershell" style="vertical-align:top; margin:6px 4px">
+  <img src="/Images/Programming and Scripting/rust.svg" alt="Rust" style="vertical-align:top; margin:6px 4px">
+</a> 
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools 
+<p align="left">
+<a href="#">
+  <img src="/Images/Tools/docker.svg" alt="Docker" style="vertical-align:top; margin:6px 4px">
+  <img src="/Images/Tools/jetbrains_pycharm.svg" alt="PyCharm" style="vertical-align:top; margin:6px 4px">
+  <img src="/Images/Tools/visualstudio_code.svg" alt="VSCode" style="vertical-align:top; margin:6px 4px">
+  <img src="/Images/Tools/vmware.svg" alt="VMWare" style="vertical-align:top; margin:6px 4px">
+</a>  
+</p>
