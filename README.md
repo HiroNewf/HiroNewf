@@ -1,9 +1,9 @@
 ## Hello! I am HiroNewf, a student aspiring to be a Penetration Tester 
 <a href="https://github.com/HiroNewf/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=HiroNewf&show_icons=true&theme=synthwave&hide=issues,contribs&card_width=220)" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=HiroNewf&show_icons=true&theme=synthwave&hide=issues,contribs&card_width=220)" />
 </a>
 <a href="https://github.com/HiroNewf/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiroNewf&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave&card_width=220" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiroNewf&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave&card_width=220" />
 </a>
 
 ### Certifications
