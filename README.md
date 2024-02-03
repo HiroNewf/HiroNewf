@@ -1,4 +1,11 @@
 ## Hello! I am HiroNewf, a student aspiring to be a Penetration Tester 
+<a href="https://github.com/HiroNewf/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=HiroNewf&show_icons=true&theme=synthwave&hide=issues,contribs&card_width=220)" />
+</a>
+<a href="https://github.com/HiroNewf/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiroNewf&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave&card_width=220" />
+</a>
+
 ### Certifications
 <p align="left">
 <a href="#">
@@ -10,24 +17,4 @@
 <a href="#">
   <img src="/Images/Certifications/Net%2B.png" alt="Network+" style="vertical-align:top; margin:6px 4px">
 </a> 
-</p>
-
-### Languages 
-<p align="left">
-<a href="#">
-  <img src="/Images/Programming and Scripting/python.svg" alt="Python" style="vertical-align:top; margin:6px 4px">
-  <img src="/Images/Programming and Scripting/bash.svg" alt="Bash" style="vertical-align:top; margin:6px 4px">
-  <img src="/Images/Programming and Scripting/powershell.svg" alt="Powershell" style="vertical-align:top; margin:6px 4px">
-  <img src="/Images/Programming and Scripting/rust.svg" alt="Rust" style="vertical-align:top; margin:6px 4px">
-</a> 
-</p>
-
-### Tools 
-<p align="left">
-<a href="#">
-  <img src="/Images/Tools/docker.svg" alt="Docker" style="vertical-align:top; margin:6px 4px">
-  <img src="/Images/Tools/jetbrains_pycharm.svg" alt="PyCharm" style="vertical-align:top; margin:6px 4px">
-  <img src="/Images/Tools/visualstudio_code.svg" alt="VSCode" style="vertical-align:top; margin:6px 4px">
-  <img src="/Images/Tools/vmware.svg" alt="VMWare" style="vertical-align:top; margin:6px 4px">
-</a>  
 </p>
