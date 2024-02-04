@@ -1,6 +1,6 @@
 ## Hello! I am HiroNewf, a student aspiring to be a Penetration Tester 
 <a href="https://github.com/HiroNewf/github-readme-stats">
-  <img height=160 align="center" src="https://readme-o5a9.vercel.app/api/top-langs/?username=HiroNewf&size_weight=0.7&count_weight=0.5&layout=compact&theme=synthwave&card_width=330&exclude_repo=Readme,github-readme-stats,ADInspect,sm8uti&langs_count=9" />
+  <img height=160 align="center" src="https://readme-o5a9.vercel.app/api/top-langs/?username=HiroNewf&size_weight=0.7&count_weight=0.5&layout=compact&theme=synthwave&card_width=330&exclude_repo=Readme&langs_count=9" />
 </a>
 
 <a href="https://github.com/HiroNewf/github-readme-stats">
