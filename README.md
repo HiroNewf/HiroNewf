@@ -4,7 +4,7 @@
 </a>
 
 <a href="https://github.com/HiroNewf/github-readme-stats">
-  <img height=160 align="center" src="https://readme-o5a9.vercel.app/api?username=HiroNewf&show_icons=true&theme=synthwave&hide=issues,contribs&card_width=220)" />
+  <img height=160 align="center" src="https://readme-o5a9.vercel.app/api?username=HiroNewf&show_icons=true&theme=synthwave&hide=issues&card_width=220)" />
 </a>
 </p>
 
