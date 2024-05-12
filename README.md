@@ -1,4 +1,4 @@
-## Hello! I am HiroNewf, Professional Resume Roaster & Okay Ethical Hacker
+## Hello! I am Hiro, a Professional Googler pretending to be an Ethical Hacker & unprofessional Resume Roaster
 <a href="https://github.com/HiroNewf/github-readme-stats">
   <img height=160 align="center" src="https://readme-o5a9.vercel.app/api/top-langs/?username=HiroNewf&size_weight=0.7&count_weight=0.5&layout=compact&theme=synthwave&card_width=330&exclude_repo=Readme,Cyber_Notes&langs_count=8" />
 </a>
