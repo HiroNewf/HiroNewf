@@ -20,3 +20,4 @@
   <img src="/Images/Certifications/Net%2B.png" alt="Network+" style="vertical-align:top; margin:6px 4px">
 </a> 
 </p>
+
